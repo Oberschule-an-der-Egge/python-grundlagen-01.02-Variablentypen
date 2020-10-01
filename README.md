@@ -47,8 +47,6 @@ Welche Berechnungen funktionieren nun, welche funktionieren nicht?
 
 
 
-**Sobald Sie alles ausprobiert haben, loggen Sie sich auf itslearning ein und füllen Sie den Fragebogen aus!**
-
 
 Quelle
 ------
